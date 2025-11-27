@@ -28,7 +28,4 @@ This project showcases the restaurant's menu, services, gallery, and contact inf
 - **FontAwesome**  
 - **Google Fonts**
 
-### Demo Screeshots
-
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
