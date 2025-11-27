@@ -1,23 +1,32 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/grilli?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/grilli?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/CjVGp5kGHxA?style=social)](https://youtu.be/CjVGp5kGHxA)
+# 🍽️ Grill Restaurant Website
 
-  <br />
-  <br />
+A modern and responsive website designed for a grill-themed restaurant.  
+This project showcases the restaurant's menu, services, gallery, and contact information with a clean and engaging user interface.
 
-  <h2 align="center">Grilli - Restaurant Website</h2>
+---
 
-  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+## 🚀 Features
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+- **Home Page** – Attractive hero section with call-to-action  
+- **About Section** – Restaurant story, mission, and values  
+- **Menu Page** – Categorized dishes with prices  
+- **Gallery** – High-quality images of food and ambience  
+- **Online Reservation** – Easy-to-use table booking form  
+- **Testimonials** – Customer reviews for social proof  
+- **Contact Page** – Address, phone, email & embedded map  
+- **Fully Responsive** – Optimized for mobile, tablet, and desktop  
+- **Smooth Animations** – Enhances user experience  
 
-</div>
+---
 
-<br />
+## 🛠️ Technologies Used
+
+- **HTML5**  
+- **CSS3** (Flexbox, Grid, Animations)  
+- **JavaScript**  
+- **Bootstrap / Tailwind CSS** (if used)  
+- **FontAwesome**  
+- **Google Fonts**
 
 ### Demo Screeshots
 
@@ -33,22 +42,11 @@ Before you begin, ensure you have met the following requirements:
 
 To run **Grilli** locally, run this command on your git bash:
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
-```
-
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/grilli.git
+(https://github.com/sudharshini28/Grill-Restarunt)
 ```
 
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
