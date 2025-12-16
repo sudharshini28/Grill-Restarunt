@@ -23,8 +23,7 @@ This project showcases the restaurant's menu, services, gallery, and contact inf
 
 - **HTML5**  
 - **CSS3** (Flexbox, Grid, Animations)  
-- **JavaScript**  
-- **Bootstrap / Tailwind CSS** (if used)  
+- **JavaScript**   
 - **FontAwesome**  
 - **Google Fonts**
 
